@@ -154,7 +154,7 @@ a {
 .hot-news-section {
     display: flex;
     flex-direction: column;
-    gap: 32px;
+    gap: 64px;
     margin: 64px auto;
     align-items: center;
 }
@@ -170,7 +170,7 @@ a {
 
 .hot-news-section h2 {
     color: darkgreen;
-    margin-bottom: 64px;
+    /* margin-bottom: 32px; */
     text-align: center;
     font-size: 48px;
   }
